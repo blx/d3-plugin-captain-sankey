@@ -1,0 +1,5 @@
+{
+    "name": "d3-plugin-sankey",
+    "version": "0.1.0",
+    "main": "sankey.js"
+}
